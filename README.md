@@ -1,4 +1,4 @@
-# Fastcampus Site
+# codingEdu-site
 ## contributor
 - @eunyeong-bae
 
